@@ -1,8 +1,8 @@
-# This is Software Design project of group MNST
-1. Nghia Duc Hong H292119
-2. Duy Anh Vu H294381
-3. Tran Thuy Phuong Nhi H291937
-4. The Anh Nguyen H292126
+# This is Software Design course project of group MNST
+1. Nghia Duc Hong
+2. Duy Anh Vu
+3. Tran Thuy Phuong Nhi
+4. The Anh Nguyen
 
 # Demo
 We have deployed a version to the Internet so that you can use without installing anything. We highly recommend to use the application on PCs and Laptops.  
